@@ -7,4 +7,4 @@ PL Evaluator is basically designed & developed for those financial companies whi
 
 Its GUI based desktop application, so its very user friendly. It is designed and developed based on client server architecture. In this application, MySQL database is used to store data related to employees, loans, clients, etc. Since database is on Server, so any number of users can work simultaneously and can share their data with each other.
 
-It is developed using Java technologies
+It is developed using Java technologies.
